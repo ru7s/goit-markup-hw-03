@@ -135,6 +135,10 @@ color: var(--grey);
 
   
   /*section-2*/
+  .section-two{
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
 
   .features-head{
     font-weight: 500;
