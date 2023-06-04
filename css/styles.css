@@ -1,0 +1,191 @@
+:root{
+  --grey: #434455;
+--background-color:#2e2f42;
+
+}
+
+
+/*body*/
+
+body{font-family:"Roboto",sans-serif ;
+color: #434455;
+background-color: #ffffff ;}
+
+/*header,logo,menu*/
+
+.logo{
+  font-family:"Raleway",sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  text-decoration: none;
+}
+.link{text-decoration: none;}
+
+.link:hover{
+  color:#404bbf ;
+}
+.link:focus{
+color: #404bbf;
+}
+
+.logo-color{color:#2e2f42;
+  
+}
+
+
+.list-a{
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: var(--background-color);
+}
+
+.list-b{
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: var(--grey);
+}
+
+.list-a:hover{
+  color: #404bbf;
+}
+.list-a:focus{
+  color: #404bbf;
+}
+
+
+/*address*/
+
+.address{
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color:#2e2f42;
+ 
+
+}
+/*section1*/
+
+
+.section-one{
+  background-color: #2e2f42;
+
+  }
+  .section-effective{
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #ffffff;
+  }
+  .section-but{
+    background-color: #4D5AE5;
+    font-family:"Roboto",sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing:0.04em;
+    color:#ffffff;
+    cursor: pointer;
+  }
+  .section-but:hover{
+    background-color:#404BBF ;
+  }
+    .section-but:focus{
+      background-color:#404BBF ;
+    }
+  .features-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+  }
+
+  
+  /*section-2*/
+
+  .features-head{
+    font-weight: 500;
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: 0.02em;
+      color: #2e2f42;
+  }
+.features-text{
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+/*section-3*/
+
+.section-img{
+  font-size: 36px;
+  letter-spacing: 0.02em;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+  background-color: #ffffff;
+}
+/*section-4*/
+.list{
+  background-color:#ffffff;
+}
+.section-format-img{
+  background-color: #F4F4FD;
+}
+.section-picter{
+  background-color: #FFFFFF;
+}
+/*Footer*/
+
+
+
+.logo-footer{
+  color: #F4F4FD;
+}
+.footer-text{
+  color: #F4F4FD;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.desing-all{font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color: #F4F4FD;
+  cursor: pointer;
+}
+.desing-all:hover{
+  color: #FFFFFF;
+  background-color: #404BBF;
+}
+.desing-all:focus{
+  color:  #FFFFFF;
+  background-color: #404BBF;
+}
+.card-name{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.card-paragraf{
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color:#434455;
+   
+}
+.footer-page{
+  background-color: #2e2f42;
+}
+
