@@ -168,6 +168,7 @@ color: var(--grey);
   background-color:#ffffff;
   display: flex;
   gap: 40px;
+  gap: 24px;
 }
 .section-format-img{
   background-color: #F4F4FD;
