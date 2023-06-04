@@ -20,6 +20,7 @@ padding: 0 15px 0 15px;
 
 
 
+
 /*body*/
 
 body{font-family:"Roboto",sans-serif ;
@@ -152,6 +153,8 @@ color: var(--grey);
 /*section-4*/
 .list{
   background-color:#ffffff;
+  display: flex;
+  gap: 40px;
 }
 .section-format-img{
   background-color: #F4F4FD;
