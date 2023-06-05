@@ -184,6 +184,9 @@ font-style: normal;
     height: 56px;
     border: none;
     border-radius: 4px;
+    margin-left: auto;
+    margin-left: auto ;
+    margin-top: auto;
   }
   .section-but:hover{
     background-color:#404BBF ;
