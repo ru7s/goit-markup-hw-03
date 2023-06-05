@@ -5,6 +5,7 @@
 }
 .header-class{
   border-bottom: 1px solid #e7e9fc;
+  background-color: #ffffff;
 }
 .container{
   display: flex;
@@ -172,10 +173,9 @@ display: flex;
 }
 /*section-4*/
 .list{
-  background-color:#ffffff;
-list-style: none;
+ list-style: none;
+  }
   
-}
 .section-format-img{
   background-color: #F4F4FD;
 }
