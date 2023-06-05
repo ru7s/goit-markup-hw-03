@@ -260,8 +260,14 @@ font-style: normal;
   background-color: #F4F4FD;
   padding: 120px 0;
 }
-.section-format-work{
+.section-format-work {
   margin-bottom: 72px;
+  font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--title-color);
+    text-align: center;
 }
 .section-picter{
   background-color: #FFFFFF;
