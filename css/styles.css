@@ -80,6 +80,11 @@ color: var(--grey);
     display: flex;
     gap: 40px;
 }
+.header-address-list{
+display: flex;
+  gap: 40px;
+}
+
 
 
 /*address*/
