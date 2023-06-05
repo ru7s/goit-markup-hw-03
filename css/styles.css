@@ -211,6 +211,9 @@ font-style: normal;
     padding-top: 120px;
     padding-bottom: 120px;
   }
+  .features-title{
+    margin-bottom: 8px;
+  }
 
   .features-head{
     font-weight: 500;
