@@ -26,6 +26,7 @@
 }
 img{
   display: block;
+  margin-bottom: 72px;
 }
 ul,
 ol {
@@ -231,6 +232,9 @@ font-style: normal;
 
 
 /*section-3*/
+.section-work{
+  padding-bottom: 120px;
+}
 
 .section-img{
   font-size: 36px;
