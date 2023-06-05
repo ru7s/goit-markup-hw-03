@@ -76,6 +76,9 @@ color: var(--grey);
 .list-a:focus{
   color: #404bbf;
 }
+.header-menu-list{
+  list-style: none;
+}
 
 
 /*address*/
@@ -85,9 +88,7 @@ color: var(--grey);
   line-height: 1.5;
   letter-spacing: 0.02em;
   color:#2e2f42;
- 
-
-}
+ }
 /*section1*/
 
 
