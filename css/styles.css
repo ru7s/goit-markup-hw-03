@@ -137,7 +137,9 @@ display: flex;
 }
 .section-format-list{
   display: flex;
-    gap: 40px;
+    gap: 24x;
+    justify-content: center;
+
 }
 
 .header-item{
@@ -272,10 +274,7 @@ font-style: normal;
 .section-picter{
   background-color: #FFFFFF;
 }
-.section-format-list{
-  justify-content: center;
-  gap: 24px;
-}
+
 /*Footer*/
 
 
