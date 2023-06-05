@@ -88,6 +88,10 @@ color: var(--grey);
 display: flex;
   gap: 40px;
 }
+.address-list{
+  display: flex;
+    gap: 40px;
+}
 .header-item{
   display: flex;
 }
