@@ -272,6 +272,10 @@ font-style: normal;
 .section-picter{
   background-color: #FFFFFF;
 }
+.section-format-list{
+  justify-content: center;
+  gap: 24px;
+}
 /*Footer*/
 
 
