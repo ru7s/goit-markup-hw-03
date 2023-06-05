@@ -77,7 +77,8 @@ color: var(--grey);
   color: #404bbf;
 }
 .header-menu-list{
-  list-style: none;
+    display: flex;
+    gap: 40px;
 }
 
 
@@ -167,8 +168,7 @@ color: var(--grey);
 /*section-4*/
 .list{
   background-color:#ffffff;
-  display: flex;
-  gap: 40px;
+list-style: none;
   
 }
 .section-format-img{
