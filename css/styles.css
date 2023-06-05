@@ -236,6 +236,9 @@ font-style: normal;
 .section-work{
   padding-bottom: 120px;
 }
+.section-work-picture{
+  width: calc((100% - 48px) / 3);
+}
 
 .section-img{
   margin-bottom: 72px;
