@@ -164,10 +164,9 @@ margin-left: auto;
       letter-spacing: 0.02em;
       color: #2e2f42;
   }
-.features-text{
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
+.features-text{line-height: 1.5;
+  letter-spacing: 0.02em; }
+
 
 /*section-3*/
 
