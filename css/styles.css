@@ -93,6 +93,18 @@ display: flex;
   display: flex;
     gap: 40px;
 }
+.features-list{
+  display: flex;
+    gap: 40px;
+}
+.section-img-list{
+  display: flex;
+    gap: 40px;
+}
+.section-format-list{
+  display: flex;
+    gap: 40px;
+}
 
 .header-item{
   display: flex;
