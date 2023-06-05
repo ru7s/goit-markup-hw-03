@@ -132,7 +132,8 @@ display: flex;
 }
 .section-img-list{
   display: flex;
-    gap: 40px;
+    gap: 24px;
+    justify-content: center;
 }
 .section-format-list{
   display: flex;
