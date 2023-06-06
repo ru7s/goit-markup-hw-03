@@ -280,6 +280,12 @@ font-style: normal;
 .name-position{
   text-align: center;
   padding: 32px 16px;
+  
+}
+/*--portfolio--*/
+.prof-section{
+  padding-top: 96px;
+  padding-bottom: 120px;
 }
 
 /*Footer*/
