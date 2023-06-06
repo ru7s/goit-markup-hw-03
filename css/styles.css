@@ -305,6 +305,12 @@ font-style: normal;
 .desing-all:focus{
   border: 1px solid transparent;
 }
+.for{
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+
+}
 
 
 /*Footer*/
