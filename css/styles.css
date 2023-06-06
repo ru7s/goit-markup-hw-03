@@ -286,6 +286,7 @@ font-style: normal;
 .prof-section{
   padding-top: 96px;
   padding-bottom: 120px;
+  padding: 96px 0 120px 0
 }
 
 /*Footer*/
