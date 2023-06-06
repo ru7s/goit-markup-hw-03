@@ -280,6 +280,9 @@ font-style: normal;
 .section-format-corect{
   padding: 32px 16px;
 }
+.name-position{
+  text-align: center;
+}
 
 /*Footer*/
 
