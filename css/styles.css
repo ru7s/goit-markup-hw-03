@@ -294,15 +294,15 @@ font-style: normal;
   gap: 24px;
   margin-bottom: 72px
 }
-.portf-desing{
+.desing-all{
   padding: 12px 24px;
   border: 1px solid #e7e9fc;
   border-radius: 4px;
 }
-.portf-desing:hover{
+.desing-all:hover{
   border: 1px solid transparent;
 }
-.portf-desing:focus{
+.desing-all:focus{
   border: 1px solid transparent;
 }
 
