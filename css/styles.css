@@ -283,6 +283,10 @@ font-style: normal;
 }
 
 /*Footer*/
+.logo{
+  display: inline-block;
+  margin-bottom: 16px;
+}
 
 
 
