@@ -282,6 +282,7 @@ font-style: normal;
 }
 .name-position{
   text-align: center;
+  padding: 32px 16px;
 }
 
 /*Footer*/
