@@ -288,6 +288,12 @@ font-style: normal;
   padding-bottom: 120px;
   padding: 96px 0 120px 0
 }
+.website{
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 72px
+}
 
 /*Footer*/
 .logo{
