@@ -119,7 +119,7 @@ color: var(--grey);
 }
 .header-address-list{
 display: flex;
-  gap: 40px;
+  gap: 24px;
 }
 
 .address-list{
@@ -212,6 +212,8 @@ font-style: normal;
 
   
   /*section-2*/
+  
+
   .features-item{
     width: calc((100% - 72px) / 4);
   }
@@ -316,7 +318,7 @@ font-style: normal;
   border: 1px solid #e7e9fc;
   border-top: none;
  }
- 
+
 
 
 
