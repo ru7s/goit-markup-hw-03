@@ -128,7 +128,7 @@ display: flex;
 }
 .features-list{
   display: flex;
-    gap: 40px;
+    gap: 24px;
 }
 .section-img-list{
   display: flex;
