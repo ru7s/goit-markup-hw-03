@@ -12,6 +12,7 @@
   margin: 0 auto;
   padding: 0 15px;
 }
+
 .visually-hidden{
   position: absolute;
   width: 1px;
@@ -24,6 +25,7 @@
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+
 img{
   display: block;
   margin-bottom: 72px;
