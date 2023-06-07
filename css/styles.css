@@ -119,7 +119,7 @@ color: var(--grey);
 }
 .header-address-list{
 display: flex;
-  gap: 24px;
+  gap: 40px;
 }
 
 .address-list{
