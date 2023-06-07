@@ -203,6 +203,9 @@ font-style: normal;
     .section-but:focus{
       background-color:#404BBF ;
     }
+
+   /*section-2*/
+   
   .features-title{
     font-weight: 500;
     font-size: 20px;
@@ -211,11 +214,7 @@ font-style: normal;
     color: #2e2f42;
     margin-bottom: 8px;
   }
-
   
-  /*section-2*/
-  
-
   .features-item{
     width: calc((100% - 72px) / 4);
   }
