@@ -82,18 +82,9 @@ background-color: #ffffff ;}
 }
 .link{text-decoration: none;}
 
-.link:hover{
-  color:#404bbf ;
-}
-.link:focus{
-color: #404bbf;
-}
-
 .logo-color{color:#2e2f42;
   
 }
-
-
 .list-a{
   display: block;
 font-weight: 500;
@@ -115,12 +106,13 @@ letter-spacing: 0.02em;
 color: var(--grey);
 }
 
-.list-a:hover{
+.list-a:hover,
+.list-a:focus,
+.list-b:hover,
+.list-b:focus {
   color: #404bbf;
 }
-.list-a:focus{
-  color: #404bbf;
-}
+  
 .header-menu-list{
     display: flex;
     gap: 40px;
