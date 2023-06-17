@@ -1,6 +1,12 @@
 :root{
   --grey: #434455;
---background-color:#2e2f42;
+    --background-color: #2e2f42;
+    --blu-color: #4d5ae5;
+    --dark-grey: #8e8f99;
+    --white-color: #FFFFFF;
+    --light-green: #31d0aa;
+    --light-white: #f4f4fd;
+    --dark-blu: #404bbf;
 
 }
 .header-class{
