@@ -144,14 +144,13 @@ display: flex;
   align-items: center;
 }
 
-
-
 /*address*/
 
 .address{
 margin-left: auto;
 font-style: normal;
  }
+
 /*section1*/
 
 .section-one{
@@ -191,9 +190,11 @@ font-style: normal;
     margin-right: auto ;
     margin-top: 48px;
   }
+
   .section-but:hover{
     background-color:#404BBF ;
   }
+
     .section-but:focus{
       background-color:#404BBF ;
     }
@@ -203,11 +204,11 @@ font-style: normal;
   .features-item{
     width: calc((100% - 72px) / 4);
   }
+
   .section-two{
     padding-top: 120px;
     padding-bottom: 120px;
   }
-
 
   .features-head{
     font-weight: 500;
@@ -226,6 +227,7 @@ font-style: normal;
 .section-work{
   padding-bottom: 120px;
 }
+
 .section-work-picture{
   width: calc((100% - 48px) / 3);
 }
@@ -240,16 +242,17 @@ font-style: normal;
   color: #2e2f42;
   background-color: #ffffff;
 }
+
 /*section-4*/
 .list{
  list-style: none;
-
-  }
+}
 
 .section-format-img{
   background-color: #F4F4FD;
   padding: 120px 0;
 }
+
 .section-format-work {
   margin-bottom: 72px;
   font-size: 36px;
@@ -259,6 +262,7 @@ font-style: normal;
     color: var(--title-color);
     text-align: center;
 }
+
 .section-picter{
   background-color: #FFFFFF;
   width: calc((100% - 72px) / 4);
@@ -287,12 +291,10 @@ font-style: normal;
   border: 1px solid #e7e9fc;
   border-radius: 4px;
 }
-.desing-all:hover{
+.desing-all:hover,.desing-all:focus{
   border: 1px solid transparent;
 }
-.desing-all:focus{
-  border: 1px solid transparent;
-}
+
 .for{
   display: flex;
   flex-wrap: wrap;
@@ -338,14 +340,11 @@ font-style: normal;
   background-color: #F4F4FD;
   cursor: pointer;
 }
-.desing-all:hover{
+.desing-all:hover,.desing-all:focus{
   color: #FFFFFF;
   background-color: #404BBF;
 }
-.desing-all:focus{
-  color:  #FFFFFF;
-  background-color: #404BBF;
-}
+
 .card-name{
   font-weight: 500;
   font-size: 20px;
